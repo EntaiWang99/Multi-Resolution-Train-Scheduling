@@ -1,0 +1,929 @@
+Outer Iteration: 0
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: 46800.0
+Upper bound: 205200
+Gap = 77.19298245614036%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Not path found in agent 32
+Not path found in agent 34
+Not path found in agent 35
+Upper bound: 7920
+Upper bound infeasible!
+Updated same agent 31 headway time: 5 for link 65
+Updated same agent 33 headway time: 5 for link 65
+Updated same agent 34 headway time: 5 for link 65
+
+Current Station:2
+Iteration No: 0
+Not path found in agent 26
+Not path found in agent 28
+Not path found in agent 29
+Not path found in agent 31
+Not path found in agent 32
+Not path found in agent 34
+Upper bound: 7200
+Upper bound infeasible!
+Updated oppo agent 0 headway time: 5 for link 18
+Updated same agent 27 headway time: 5 for link 62
+Updated same agent 28 headway time: 5 for link 62
+Updated oppo agent 6 headway time: 5 for link 18
+Updated oppo agent 7 headway time: 5 for link 18
+Updated oppo agent 9 headway time: 5 for link 18
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 23
+Not path found in agent 26
+Not path found in agent 29
+Not path found in agent 30
+Not path found in agent 35
+Upper bound: 7440
+Upper bound infeasible!
+Updated same agent 22 headway time: 5 for link 59
+Updated same agent 25 headway time: 5 for link 59
+Updated same agent 28 headway time: 5 for link 59
+Updated oppo agent 10 headway time: 5 for link 15
+Updated same agent 34 headway time: 5 for link 59
+
+Current Station:4
+Iteration No: 0
+Not path found in agent 20
+Not path found in agent 23
+Not path found in agent 26
+Not path found in agent 29
+Not path found in agent 32
+Upper bound: 7440
+Upper bound infeasible!
+Updated same agent 19 headway time: 5 for link 56
+Updated same agent 22 headway time: 5 for link 56
+Updated same agent 25 headway time: 5 for link 56
+Updated same agent 28 headway time: 5 for link 56
+Updated same agent 31 headway time: 5 for link 56
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0]
+[248160]
+[19]
+Outer Iteration: 1
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: -107221.87028777605
+Upper bound: 205200
+Gap = 152.25237343458872%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Not path found in agent 31
+Not path found in agent 35
+Upper bound: 8160
+Upper bound infeasible!
+Updated same agent 30 headway time: 5 for link 65
+Updated same agent 32 headway time: 5 for link 65
+
+Current Station:2
+Iteration No: 0
+Not path found in agent 33
+Not path found in agent 35
+Upper bound: 8160
+Upper bound infeasible!
+Updated oppo agent 10 headway time: 5 for link 18
+Updated oppo agent 7 headway time: 7 for link 18
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 24
+Not path found in agent 28
+Not path found in agent 29
+Not path found in agent 30
+Upper bound: 7680
+Upper bound infeasible!
+Updated oppo agent 4 headway time: 5 for link 15
+Updated same agent 27 headway time: 5 for link 59
+Updated oppo agent 9 headway time: 5 for link 15
+Updated oppo agent 13 headway time: 5 for link 15
+
+Current Station:4
+Iteration No: 0
+Not path found in agent 35
+Upper bound: 8400
+Upper bound infeasible!
+Updated same agent 32 headway time: 5 for link 56
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Not path found in agent 32
+Upper bound: 2370
+Upper bound infeasible!
+Updated same agent 31 headway time: 5 for link 50
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0, -62011.87028777605]
+[248160, 250410]
+[19, 10]
+Outer Iteration: 2
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: -85955.89083244532
+Upper bound: 205200
+Gap = 141.88883568832617%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:2
+Iteration No: 0
+Not path found in agent 34
+Upper bound: 8400
+Upper bound infeasible!
+Updated same agent 33 headway time: 5 for link 62
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 24
+Upper bound: 8400
+Upper bound infeasible!
+Updated oppo agent 4 headway time: 7 for link 15
+
+Current Station:4
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Not path found in agent 32
+Upper bound: 2370
+Upper bound infeasible!
+Updated same agent 31 headway time: 7 for link 50
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0, -62011.87028777605, -39065.89083244532]
+[248160, 250410, 252090]
+[19, 10, 3]
+Outer Iteration: 3
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: -48510.425029150996
+Upper bound: 205200
+Gap = 123.64055800640887%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:2
+Iteration No: 0
+Not path found in agent 34
+Upper bound: 8400
+Upper bound infeasible!
+Updated same agent 33 headway time: 7 for link 62
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 24
+Upper bound: 8400
+Upper bound infeasible!
+Updated oppo agent 4 headway time: 9 for link 15
+
+Current Station:4
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Not path found in agent 32
+Upper bound: 2370
+Upper bound infeasible!
+Updated same agent 31 headway time: 9 for link 50
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0, -62011.87028777605, -39065.89083244532, -1620.4250291509961]
+[248160, 250410, 252090, 252090]
+[19, 10, 3, 3]
+Outer Iteration: 4
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: -35353.0103183652
+Upper bound: 205200
+Gap = 117.22856253331636%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:2
+Iteration No: 0
+Not path found in agent 34
+Upper bound: 8400
+Upper bound infeasible!
+Updated same agent 33 headway time: 9 for link 62
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 24
+Upper bound: 8400
+Upper bound infeasible!
+Updated oppo agent 4 headway time: 11 for link 15
+
+Current Station:4
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Not path found in agent 32
+Upper bound: 2370
+Upper bound infeasible!
+Updated same agent 31 headway time: 11 for link 50
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0, -62011.87028777605, -39065.89083244532, -1620.4250291509961, 11536.989681634797]
+[248160, 250410, 252090, 252090, 252090]
+[19, 10, 3, 3, 3]
+Outer Iteration: 5
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: -56591.366185280145
+Upper bound: 205200
+Gap = 127.57863849185192%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:2
+Iteration No: 0
+Not path found in agent 35
+Upper bound: 8400
+Upper bound infeasible!
+Updated oppo agent 15 headway time: 5 for link 18
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 24
+Not path found in agent 34
+Upper bound: 8160
+Upper bound infeasible!
+Updated oppo agent 4 headway time: 13 for link 15
+Updated oppo agent 17 headway time: 5 for link 15
+
+Current Station:4
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Not path found in agent 32
+Upper bound: 2370
+Upper bound infeasible!
+Updated same agent 31 headway time: 13 for link 50
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0, -62011.87028777605, -39065.89083244532, -1620.4250291509961, 11536.989681634797, -9941.366185280145]
+[248160, 250410, 252090, 252090, 252090, 251850]
+[19, 10, 3, 3, 3, 4]
+Outer Iteration: 6
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: -33232.05890465493
+Upper bound: 205200
+Gap = 116.19496047985132%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:2
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 32
+Upper bound: 8400
+Upper bound infeasible!
+Updated same agent 31 headway time: 5 for link 59
+
+Current Station:4
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0, -62011.87028777605, -39065.89083244532, -1620.4250291509961, 11536.989681634797, -9941.366185280145, 14047.941095345072]
+[248160, 250410, 252090, 252090, 252090, 251850, 252480]
+[19, 10, 3, 3, 3, 4, 1]
+Outer Iteration: 7
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: -49315.717465650654
+Upper bound: 205200
+Gap = 124.0330007142547%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:2
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:3
+Iteration No: 0
+Not path found in agent 32
+Upper bound: 8400
+Upper bound infeasible!
+Updated same agent 31 headway time: 7 for link 59
+
+Current Station:4
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Iteration No: 0
+Upper bound: 5400
+[89760.0, -62011.87028777605, -39065.89083244532, -1620.4250291509961, 11536.989681634797, -9941.366185280145, 14047.941095345072, -2035.717465650654]
+[248160, 250410, 252090, 252090, 252090, 251850, 252480, 252480]
+[19, 10, 3, 3, 3, 4, 1, 1]
+Outer Iteration: 8
+Iteration No: 0
+Iteration No: 1
+Iteration No: 2
+Iteration No: 3
+Iteration No: 4
+Iteration No: 5
+Iteration No: 6
+Iteration No: 7
+Iteration No: 8
+Iteration No: 9
+Iteration No: 10
+Iteration No: 11
+Iteration No: 12
+Iteration No: 13
+Iteration No: 14
+Iteration No: 15
+Iteration No: 16
+Iteration No: 17
+Iteration No: 18
+Iteration No: 19
+Iteration No: 20
+Iteration No: 21
+Iteration No: 22
+Iteration No: 23
+Iteration No: 24
+Iteration No: 25
+Iteration No: 26
+Iteration No: 27
+Iteration No: 28
+Iteration No: 29
+Iteration No: 30
+Iteration No: 31
+Iteration No: 32
+Iteration No: 33
+Iteration No: 34
+Iteration No: 35
+Iteration No: 36
+Iteration No: 37
+Iteration No: 38
+Iteration No: 39
+Iteration No: 40
+Iteration No: 41
+Iteration No: 42
+Iteration No: 43
+Iteration No: 44
+Iteration No: 45
+Iteration No: 46
+Iteration No: 47
+Iteration No: 48
+Iteration No: 49
+Iteration No: 50
+Lower bound: 3734.5177743401655
+Upper bound: 205200
+Gap = 98.18005956416171%
+Upper bound feasible!
+
+Current Station:1
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:2
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:3
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:4
+Iteration No: 0
+Upper bound: 8640
+
+Current Station:5
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:6
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:7
+Iteration No: 0
+Upper bound: 2520
+
+Current Station:8
+Upper bound: 5400
+[89760.0, -62011.87028777605, -39065.89083244532, -1620.4250291509961, 11536.989681634797, -9941.366185280145, 14047.941095345072, -2035.717465650654, 51254.517774340165]
+[248160, 250410, 252090, 252090, 252090, 251850, 252480, 252480, 252720]
+[19, 10, 3, 3, 3, 4, 1, 1, 0]

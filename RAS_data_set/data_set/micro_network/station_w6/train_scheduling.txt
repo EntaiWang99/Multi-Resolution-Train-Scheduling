@@ -1,0 +1,300 @@
+
+iteration_no: 0
+agent: 0
+link_no: 12  TA: 440  TD: 445
+link_no: 11  TA: 445  TD: 446
+link_no: 7  TA: 446  TD: 447
+link_no: 1  TA: 447  TD: 448
+link_no: 0  TA: 448  TD: 460
+agent: 1
+link_no: 12  TA: 500  TD: 505
+link_no: 11  TA: 505  TD: 506
+link_no: 7  TA: 506  TD: 507
+link_no: 1  TA: 507  TD: 508
+link_no: 0  TA: 508  TD: 520
+agent: 2
+link_no: 12  TA: 640  TD: 645
+link_no: 10  TA: 645  TD: 646
+link_no: 9  TA: 646  TD: 647
+link_no: 6  TA: 647  TD: 727
+link_no: 3  TA: 727  TD: 728
+link_no: 2  TA: 728  TD: 729
+link_no: 0  TA: 729  TD: 740
+agent: 3
+link_no: 12  TA: 760  TD: 765
+link_no: 10  TA: 765  TD: 766
+link_no: 9  TA: 766  TD: 767
+link_no: 6  TA: 767  TD: 847
+link_no: 3  TA: 847  TD: 848
+link_no: 2  TA: 848  TD: 849
+link_no: 0  TA: 849  TD: 860
+agent: 4
+link_no: 12  TA: 1040  TD: 1045
+link_no: 11  TA: 1045  TD: 1046
+link_no: 7  TA: 1046  TD: 1047
+link_no: 1  TA: 1047  TD: 1048
+link_no: 0  TA: 1048  TD: 1060
+agent: 5
+link_no: 12  TA: 1100  TD: 1105
+link_no: 11  TA: 1105  TD: 1106
+link_no: 7  TA: 1106  TD: 1107
+link_no: 1  TA: 1107  TD: 1108
+link_no: 0  TA: 1108  TD: 1120
+agent: 6
+link_no: 12  TA: 1160  TD: 1165
+link_no: 11  TA: 1165  TD: 1166
+link_no: 7  TA: 1166  TD: 1167
+link_no: 1  TA: 1167  TD: 1168
+link_no: 0  TA: 1168  TD: 1180
+agent: 7
+link_no: 12  TA: 1300  TD: 1305
+link_no: 10  TA: 1305  TD: 1306
+link_no: 9  TA: 1306  TD: 1307
+link_no: 6  TA: 1307  TD: 1387
+link_no: 3  TA: 1387  TD: 1388
+link_no: 2  TA: 1388  TD: 1389
+link_no: 0  TA: 1389  TD: 1400
+agent: 8
+link_no: 12  TA: 1640  TD: 1645
+link_no: 11  TA: 1645  TD: 1646
+link_no: 7  TA: 1646  TD: 1647
+link_no: 1  TA: 1647  TD: 1648
+link_no: 0  TA: 1648  TD: 1660
+agent: 9
+link_no: 12  TA: 1700  TD: 1705
+link_no: 11  TA: 1705  TD: 1706
+link_no: 7  TA: 1706  TD: 1707
+link_no: 1  TA: 1707  TD: 1708
+link_no: 0  TA: 1708  TD: 1720
+agent: 10
+link_no: 12  TA: 1840  TD: 1845
+link_no: 10  TA: 1845  TD: 1846
+link_no: 9  TA: 1846  TD: 1847
+link_no: 6  TA: 1847  TD: 1927
+link_no: 3  TA: 1927  TD: 1928
+link_no: 2  TA: 1928  TD: 1929
+link_no: 0  TA: 1929  TD: 1940
+agent: 11
+link_no: 12  TA: 1960  TD: 1965
+link_no: 10  TA: 1965  TD: 1966
+link_no: 9  TA: 1966  TD: 1967
+link_no: 6  TA: 1967  TD: 2047
+link_no: 3  TA: 2047  TD: 2048
+link_no: 2  TA: 2048  TD: 2049
+link_no: 0  TA: 2049  TD: 2060
+agent: 12
+link_no: 12  TA: 2240  TD: 2245
+link_no: 11  TA: 2245  TD: 2246
+link_no: 7  TA: 2246  TD: 2247
+link_no: 1  TA: 2247  TD: 2248
+link_no: 0  TA: 2248  TD: 2260
+agent: 13
+link_no: 12  TA: 2300  TD: 2305
+link_no: 11  TA: 2305  TD: 2306
+link_no: 7  TA: 2306  TD: 2307
+link_no: 1  TA: 2307  TD: 2308
+link_no: 0  TA: 2308  TD: 2320
+agent: 14
+link_no: 12  TA: 2360  TD: 2365
+link_no: 11  TA: 2365  TD: 2366
+link_no: 7  TA: 2366  TD: 2367
+link_no: 1  TA: 2367  TD: 2368
+link_no: 0  TA: 2368  TD: 2380
+agent: 15
+link_no: 12  TA: 2500  TD: 2505
+link_no: 10  TA: 2505  TD: 2506
+link_no: 9  TA: 2506  TD: 2507
+link_no: 6  TA: 2507  TD: 2587
+link_no: 3  TA: 2587  TD: 2588
+link_no: 2  TA: 2588  TD: 2589
+link_no: 0  TA: 2589  TD: 2600
+agent: 16
+link_no: 12  TA: 2840  TD: 2845
+link_no: 11  TA: 2845  TD: 2846
+link_no: 7  TA: 2846  TD: 2847
+link_no: 1  TA: 2847  TD: 2848
+link_no: 0  TA: 2848  TD: 2860
+agent: 17
+link_no: 12  TA: 2900  TD: 2905
+link_no: 11  TA: 2905  TD: 2906
+link_no: 7  TA: 2906  TD: 2907
+link_no: 1  TA: 2907  TD: 2908
+link_no: 0  TA: 2908  TD: 2920
+agent: 18
+link_no: 12  TA: 3040  TD: 3045
+link_no: 10  TA: 3045  TD: 3046
+link_no: 9  TA: 3046  TD: 3047
+link_no: 6  TA: 3047  TD: 3127
+link_no: 3  TA: 3127  TD: 3128
+link_no: 2  TA: 3128  TD: 3129
+link_no: 0  TA: 3129  TD: 3140
+agent: 19
+link_no: 12  TA: 3160  TD: 3165
+link_no: 10  TA: 3165  TD: 3166
+link_no: 9  TA: 3166  TD: 3167
+link_no: 6  TA: 3167  TD: 3247
+link_no: 3  TA: 3247  TD: 3248
+link_no: 2  TA: 3248  TD: 3249
+link_no: 0  TA: 3249  TD: 3260
+agent: 20
+link_no: 12  TA: 3520  TD: 3525
+link_no: 11  TA: 3525  TD: 3526
+link_no: 7  TA: 3526  TD: 3527
+link_no: 1  TA: 3527  TD: 3528
+link_no: 0  TA: 3528  TD: 3540
+agent: 21
+link_no: 12  TA: 3580  TD: 3585
+link_no: 11  TA: 3585  TD: 3586
+link_no: 7  TA: 3586  TD: 3587
+link_no: 1  TA: 3587  TD: 3588
+link_no: 0  TA: 3588  TD: 3600
+agent: 22
+link_no: 12  TA: 3640  TD: 3645
+link_no: 11  TA: 3645  TD: 3646
+link_no: 7  TA: 3646  TD: 3647
+link_no: 1  TA: 3647  TD: 3648
+link_no: 0  TA: 3648  TD: 3660
+agent: 23
+link_no: 12  TA: 3780  TD: 3785
+link_no: 10  TA: 3785  TD: 3786
+link_no: 9  TA: 3786  TD: 3787
+link_no: 6  TA: 3787  TD: 3867
+link_no: 3  TA: 3867  TD: 3868
+link_no: 2  TA: 3868  TD: 3869
+link_no: 0  TA: 3869  TD: 3880
+agent: 24
+link_no: 14  TA: 1440  TD: 1445
+link_no: 15  TA: 1445  TD: 1446
+link_no: 17  TA: 1446  TD: 1447
+link_no: 19  TA: 1447  TD: 1448
+link_no: 21  TA: 1448  TD: 1460
+agent: 25
+link_no: 14  TA: 1500  TD: 1505
+link_no: 15  TA: 1505  TD: 1506
+link_no: 17  TA: 1506  TD: 1507
+link_no: 19  TA: 1507  TD: 1508
+link_no: 21  TA: 1508  TD: 1520
+agent: 26
+link_no: 14  TA: 1660  TD: 1665
+link_no: 16  TA: 1665  TD: 1666
+link_no: 18  TA: 1666  TD: 1746
+link_no: 20  TA: 1746  TD: 1747
+link_no: 21  TA: 1747  TD: 1760
+agent: 27
+link_no: 14  TA: 1780  TD: 1785
+link_no: 16  TA: 1785  TD: 1786
+link_no: 18  TA: 1786  TD: 1866
+link_no: 20  TA: 1866  TD: 1867
+link_no: 21  TA: 1867  TD: 1880
+agent: 28
+link_no: 14  TA: 2040  TD: 2045
+link_no: 15  TA: 2045  TD: 2046
+link_no: 17  TA: 2046  TD: 2047
+link_no: 19  TA: 2047  TD: 2048
+link_no: 21  TA: 2048  TD: 2060
+agent: 29
+link_no: 14  TA: 2100  TD: 2105
+link_no: 15  TA: 2105  TD: 2106
+link_no: 17  TA: 2106  TD: 2107
+link_no: 19  TA: 2107  TD: 2108
+link_no: 21  TA: 2108  TD: 2120
+agent: 30
+link_no: 14  TA: 2160  TD: 2165
+link_no: 15  TA: 2165  TD: 2166
+link_no: 17  TA: 2166  TD: 2167
+link_no: 19  TA: 2167  TD: 2168
+link_no: 21  TA: 2168  TD: 2180
+agent: 31
+link_no: 14  TA: 2460  TD: 2465
+link_no: 16  TA: 2465  TD: 2466
+link_no: 18  TA: 2466  TD: 2546
+link_no: 20  TA: 2546  TD: 2547
+link_no: 21  TA: 2547  TD: 2560
+agent: 32
+link_no: 14  TA: 2680  TD: 2685
+link_no: 15  TA: 2685  TD: 2686
+link_no: 17  TA: 2686  TD: 2687
+link_no: 19  TA: 2687  TD: 2688
+link_no: 21  TA: 2688  TD: 2700
+agent: 33
+link_no: 14  TA: 2900  TD: 2905
+link_no: 15  TA: 2905  TD: 2906
+link_no: 17  TA: 2906  TD: 2907
+link_no: 19  TA: 2907  TD: 2908
+link_no: 21  TA: 2908  TD: 2920
+agent: 34
+link_no: 14  TA: 3220  TD: 3225
+link_no: 16  TA: 3225  TD: 3226
+link_no: 18  TA: 3226  TD: 3306
+link_no: 20  TA: 3306  TD: 3307
+link_no: 21  TA: 3307  TD: 3320
+agent: 35
+link_no: 14  TA: 3400  TD: 3405
+link_no: 16  TA: 3405  TD: 3406
+link_no: 18  TA: 3406  TD: 3486
+link_no: 20  TA: 3486  TD: 3487
+link_no: 21  TA: 3487  TD: 3500
+agent: 36
+link_no: 14  TA: 3620  TD: 3625
+link_no: 15  TA: 3625  TD: 3626
+link_no: 17  TA: 3626  TD: 3627
+link_no: 19  TA: 3627  TD: 3628
+link_no: 21  TA: 3628  TD: 3640
+agent: 37
+link_no: 14  TA: 3980  TD: 3985
+link_no: 15  TA: 3985  TD: 3986
+link_no: 17  TA: 3986  TD: 3987
+link_no: 19  TA: 3987  TD: 3988
+link_no: 21  TA: 3988  TD: 4000
+agent: 38
+link_no: 14  TA: 4060  TD: 4065
+link_no: 15  TA: 4065  TD: 4066
+link_no: 17  TA: 4066  TD: 4067
+link_no: 19  TA: 4067  TD: 4068
+link_no: 21  TA: 4068  TD: 4080
+agent: 39
+link_no: 14  TA: 4660  TD: 4665
+link_no: 16  TA: 4665  TD: 4666
+link_no: 18  TA: 4666  TD: 4746
+link_no: 20  TA: 4746  TD: 4747
+link_no: 21  TA: 4747  TD: 4760
+agent: 40
+link_no: 14  TA: 5280  TD: 5285
+link_no: 15  TA: 5285  TD: 5286
+link_no: 17  TA: 5286  TD: 5287
+link_no: 19  TA: 5287  TD: 5288
+link_no: 21  TA: 5288  TD: 5300
+agent: 41
+link_no: 14  TA: 5360  TD: 5365
+link_no: 15  TA: 5365  TD: 5366
+link_no: 17  TA: 5366  TD: 5367
+link_no: 19  TA: 5367  TD: 5368
+link_no: 21  TA: 5368  TD: 5380
+agent: 42
+link_no: 22  TA: 4720  TD: 4820
+agent: 43
+link_no: 14  TA: 4840  TD: 4845
+link_no: 16  TA: 4845  TD: 4846
+link_no: 18  TA: 4846  TD: 4926
+link_no: 20  TA: 4926  TD: 4927
+link_no: 21  TA: 4927  TD: 4940
+agent: 44
+link_no: 14  TA: 5740  TD: 5745
+link_no: 15  TA: 5745  TD: 5746
+link_no: 17  TA: 5746  TD: 5747
+link_no: 19  TA: 5747  TD: 5748
+link_no: 21  TA: 5748  TD: 5760
+agent: 45
+link_no: 14  TA: 5820  TD: 5825
+link_no: 15  TA: 5825  TD: 5826
+link_no: 17  TA: 5826  TD: 5827
+link_no: 19  TA: 5827  TD: 5828
+link_no: 21  TA: 5828  TD: 5840
+agent: 46
+link_no: 14  TA: 5940  TD: 5945
+link_no: 15  TA: 5945  TD: 5946
+link_no: 17  TA: 5946  TD: 5947
+link_no: 19  TA: 5947  TD: 5948
+link_no: 21  TA: 5948  TD: 5960
+agent: 47
+link_no: 22  TA: 4900  TD: 5000
