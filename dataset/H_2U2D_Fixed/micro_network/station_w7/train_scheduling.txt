@@ -1,0 +1,40 @@
+
+iteration_no: 0
+agent: 0
+link_no: 9  TA: 260  TD: 264
+link_no: 13  TA: 264  TD: 266
+link_no: 16  TA: 266  TD: 346
+link_no: 20  TA: 346  TD: 347
+link_no: 19  TA: 347  TD: 348
+link_no: 21  TA: 348  TD: 360
+agent: 1
+link_no: 9  TA: 380  TD: 384
+link_no: 13  TA: 384  TD: 386
+link_no: 16  TA: 386  TD: 466
+link_no: 20  TA: 466  TD: 467
+link_no: 19  TA: 467  TD: 468
+link_no: 21  TA: 468  TD: 480
+agent: 2
+link_no: 7  TA: 260  TD: 264
+link_no: 5  TA: 264  TD: 265
+link_no: 3  TA: 265  TD: 345
+link_no: 1  TA: 345  TD: 346
+link_no: 0  TA: 346  TD: 360
+agent: 3
+link_no: 7  TA: 320  TD: 324
+link_no: 23  TA: 324  TD: 325
+link_no: 24  TA: 325  TD: 405
+link_no: 25  TA: 405  TD: 406
+link_no: 0  TA: 406  TD: 420
+agent: 4
+link_no: 7  TA: 380  TD: 384
+link_no: 5  TA: 384  TD: 385
+link_no: 3  TA: 385  TD: 465
+link_no: 1  TA: 465  TD: 466
+link_no: 0  TA: 466  TD: 480
+agent: 5
+link_no: 7  TA: 440  TD: 444
+link_no: 23  TA: 444  TD: 445
+link_no: 24  TA: 445  TD: 525
+link_no: 25  TA: 525  TD: 526
+link_no: 0  TA: 526  TD: 540
